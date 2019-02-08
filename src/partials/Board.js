@@ -23,6 +23,5 @@ export default class Board {
 
     svg.appendChild(rect);
     svg.appendChild(line);
-    //  How do we actually append this thing to the svg in game
   }
 }
