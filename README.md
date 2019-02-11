@@ -33,13 +33,14 @@ Used Technologies
 HTML5
 
 Javascript
+
     Classes
     SVG
 
 Software
-    Visual Studio Code
 
-Git
+    Visual Studio Code
+    Git
 
 Online resources
 
